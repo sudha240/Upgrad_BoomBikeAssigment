@@ -1,0 +1,24 @@
+Bike Sharing Assignment
+
+Case Study on BoomBikes:
+BoomBikes, a automated bike-sharing system service provider - for individuals to rent bikes on a short term basis for a price or free
+In this people are allowed to borrow a bike from a 'dock' which is computerised meaning user enters payment information and system unlocks the bike.
+After usage bike can be returned to any dock belonging to same provider.
+
+Objective:
+To model the demand for shared bikes based on given independent variables, thereby management can know how the demands vary with different features.
+Therefore, this will be a good way to understand the demand dynamics of a new market. 
+
+Approach followed:
+Using Linear Regression Model to predict this demand for the bikes.
+
+Technologies:
+library - pandas
+library - numpy
+library - matplotlib
+library - seaborn
+library - statsmodels
+library - sklearn
+
+Contact:
+Done by Sudha240- feel free to contact me for further queries on above assignment.
